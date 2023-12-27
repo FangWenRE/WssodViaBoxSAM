@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e99628-043f-4ad8-a605-ed4c31ecdc4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2a6f3FlUjoddxFkSkbcoZBiFsQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/figures" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\WssodViaBoxSAM\figures" />
+      <recent name="D:\PycharmProjects\WssodViaBoxSAM\datasets\DUTS\DUTS-TR\DUTS-TR-Mask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\WssodViaBoxSAM\datasets\DUTS\DUTS-TR\DUTS-TR-Image" />
+      <recent name="D:\PycharmProjects\WssodViaBoxSAM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sam_box">
+    <configuration name="rate_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WssodViaBoxSAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rate_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sam_box" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WssodViaBoxSAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process/sam_box.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WssodViaBoxSAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sam_box" />
+        <item itemvalue="Python.train_base" />
+        <item itemvalue="Python.rate_train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e99628-043f-4ad8-a605-ed4c31ecdc4e" name="Default Changelist" comment="" />
+      <created>1703643748642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703643748642</updated>
+      <workItem from="1703643751907" duration="14647000" />
+      <workItem from="1703675423023" duration="1476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1703643879973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703643879973" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1703643856639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703643856639" />
+    <state width="1493" height="338" key="GridCell.Tab.0.bottom" timestamp="1703667937815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703667937815" />
+    <state width="1493" height="338" key="GridCell.Tab.0.center" timestamp="1703667937815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703667937815" />
+    <state width="1493" height="338" key="GridCell.Tab.0.left" timestamp="1703667937815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703667937815" />
+    <state width="1493" height="338" key="GridCell.Tab.0.right" timestamp="1703667937815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703667937815" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1703643869623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703643869623" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1703646881181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703646881181" />
+    <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1703658390789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="44" width="621" height="735" key="find.popup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1703658390789" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WssodViaBoxSAM$train_base.coverage" NAME="train_base Coverage Results" MODIFIED="1703644853690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WssodViaBoxSAM$sam_box.coverage" NAME="sam_box Coverage Results" MODIFIED="1703646355972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process" />
+    <SUITE FILE_PATH="coverage/WssodViaBoxSAM$rate_train.coverage" NAME="rate_train Coverage Results" MODIFIED="1703644447155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
