@@ -49,7 +49,6 @@ class Deeplabv3plus(nn.Module):
 					nn.init.constant_(m.weight, 1)
 					nn.init.constant_(m.bias, 0)
 
-		# weight = "/opt/checkpoint/resnet50.pth"
 		weight =  "/opt/checkpoint/resnet101.pth"
 		pretrain_dict = torch.load(weight)
 		model_dict = {}
